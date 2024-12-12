@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Waqas Ahmed
 - 👀 I’m a seasoned software engineer
 - 🌱 I’m currently working on multiple AI and .Net projects
-- 💞️ I’m looking to collaborate on project on AI and.net etc.
+- 💞️ I’m looking to collaborate on projects on AI and .Net
 - 📫 You can reach me at https://www.linkedin.com/in/waqasahmed7/
 
 <!---
