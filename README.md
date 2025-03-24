@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Waqas Ahmed
-- 👀 I’m a seasoned software engineer
+- 👀 I’m a seasoned software engineer having expertise in Python, C#, SQL, NoSQL and Data Analysis tools
 - 🌱 I’m currently working on multiple AI and .Net projects
 - 💞️ I’m looking to collaborate on projects on AI and .Net
 - 📫 You can reach me at https://www.linkedin.com/in/waqasahmed7/
